@@ -1,0 +1,17 @@
+apply plugin: 'com.android.application'
+
+dependencies {
+    compile 'com.android.support:support-v4:22.+'
+}
+android {
+    compileSdkVersion 20
+    buildToolsVersion "20.0.0"
+
+    defaultConfig {
+        applicationId "android.bignerdranch.com.hellomoon"
+        minSdkVersion 8
+        targetSdkVersion 20
+        versionCode 1
+        versionName "1.0"
+    }
+}

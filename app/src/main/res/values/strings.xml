@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloMoon</string>
+    <string name="action_settings">Settings</string>
+    <string name="hellomoon_play">Play</string>
+    <string name="hellomoon_stop">Stop</string>
+    <string name="hellomoon_pause">Pause</string>
+    <string name="hellomoon_video">Viewer</string>
+    <string name="hellomoon_player">Player</string>
+    <string name="hellomoon_description">Neil Armstrong stepping onto the moon</string>
+    <string name="title_activity_moon_video">MoonVideoActivity</string>
+    <string name="title_activity_moon_player">MoonVideoActivity</string>
+</resources>
